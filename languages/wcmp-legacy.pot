@@ -1,0 +1,211 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-19 05:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-wcmp-settings-legacy.php:38
+msgid "\"Report Abuse\" label"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:35
+msgid "\"Sold by\" label"
+msgstr ""
+
+#: includes/wcmp-legacy-core-functions.php:8
+#, php-format
+msgid ""
+"%sWCMp Legacy Settings is inactive.%s The %sWC Marketplace%s must be active "
+"for the WCMp Legacy Settings to work. Please %sinstall, activate & make sure "
+"WC Marketplace%s is updated"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:37
+msgid "A \"Report abuse\" link will appear in single product page."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A free plugin compatible with WC Marketplace 3.0 with all the removed "
+"settings"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:46
+msgid "Add Order Note"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:35
+msgid ""
+"Add the text you want to replace the phrase \\\"Sold by {vendor name}\\\"."
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:44
+msgid "Advanced"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:37
+msgid "All Products"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:55
+msgid ""
+"Allow vendors to add vendor shop specific message in \"Thank you\" page and "
+"order mail."
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:47
+msgid "Allow vendors to Export orders."
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:32
+msgid ""
+"Anyone can register as vendor. Leave it unchecked if you want to keep your "
+"site an invite only marketpace."
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:43
+msgid "Attributes"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:52
+msgid "Billing Address"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:49
+msgid "Billing Address in Export"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:39
+msgid "Blocked Vendor Notice"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:48
+msgid "Customer Details in Export"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:37
+msgid "Disable"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:34
+msgid "Display vendor details on product page."
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:33
+msgid "Enable \"Knowledgebase\" section on vendor dashboard."
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:56
+msgid "Enable store url"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:150
+msgid "General Settings Updated"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wc-marketplace.com/"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:40
+msgid "Inventory"
+msgstr ""
+
+#: classes/class-wcmp-legacy-admin.php:17
+msgid "Legacy"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:42
+msgid "Linked Products"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:55
+msgid "Message to buyer"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:51
+msgid "Name, Phone no. and Email"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:37
+msgid "Only for Vendor's Products"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:54
+msgid "Order Calculations"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:41
+msgid "Shipping"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:53
+msgid "Shipping Address"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:50
+msgid "Shipping Address in Export"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:37
+msgid "Show \"Report abuse\" link"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:36
+#, php-format
+msgid ""
+"To change the slug (/vendor/) , go to %s\\\"Settings/Permalinks\\\"%s . Type "
+"in your desired slug in the \"\\Vendor Shop base\\\" text box. Eg: yoursite."
+"com/slug/[vendor_name]."
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:56
+msgid "Vendor can add external store url."
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:46
+msgid "Vendor can add order notes."
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:45
+msgid "Vendor can see order notes."
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:33
+msgid "Vendor Knowledgebase"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:32
+msgid "Vendor Registration"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:36
+msgid "Vendor Slug"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:34
+msgid "Vendor Tab"
+msgstr ""
+
+#: admin/class-wcmp-settings-legacy.php:45
+msgid "View Order Note"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Marketplace, The Grey Parrots"
+msgstr ""
+
+#. Name of the plugin
+msgid "WCMp Legacy"
+msgstr ""
